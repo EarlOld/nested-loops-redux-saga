@@ -1,0 +1,19 @@
+{
+  "name": "nested-loops-redux-saga",
+  "version": "1.0.0",
+  "description": "demo for https://github.com/redux-saga/redux-saga/issues/1592",
+  "type": "module",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "redux-saga"
+  ],
+  "author": "EarlOld",
+  "license": "ISC",
+  "dependencies": {
+    "redux-saga": "^1.3.0"
+  }
+}
